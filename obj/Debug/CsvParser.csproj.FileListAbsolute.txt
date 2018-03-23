@@ -1,0 +1,5 @@
+C:\Users\20-8-15\Documents\SharpDevelop Projects\CsvParser\bin\Debug\CsvParser.dll
+C:\Users\20-8-15\Documents\SharpDevelop Projects\CsvParser\bin\Debug\CsvParser.pdb
+C:\Users\20-8-15\Documents\SharpDevelop Projects\CsvParser\obj\Debug\CsvParser.csprojResolveAssemblyReference.cache
+C:\Users\20-8-15\Documents\SharpDevelop Projects\CsvParser\obj\Debug\CsvParser.dll
+C:\Users\20-8-15\Documents\SharpDevelop Projects\CsvParser\obj\Debug\CsvParser.pdb
