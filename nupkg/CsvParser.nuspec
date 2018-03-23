@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CsvParser</id>
+    <version>1.0.0</version>
+    <authors>Deep Gandhi</authors>
+    <owners>Deep Gandhi</owners>
+    <licenseUrl>https://github.com/deepgandhi/Csv-Parser/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/deepgandhi/Csv-Parser</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Csv Parser</description>
+       <copyright>Copyright 2018</copyright>
+      </metadata>
+<files>
+<file src="readme.txt" target="" />
+<file src="CsvParser.dll" target="build" />
+</files>
+</package>
